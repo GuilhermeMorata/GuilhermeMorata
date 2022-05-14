@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"><img src="https://komarev.com/ghpvc/?username=GuilhermeMorata" alt="Guilherme Morata" /></p>
 
-<h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Chrystian.</h1>
+<h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Guilherme.</h1>
 <p align = "justify"><h2>FullStack Developer, unconditional love for coffee, always eager to learn new technologies and free time artist !</h2></p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/guilherme-morata-05425214b/) 
